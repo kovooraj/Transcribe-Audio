@@ -1,0 +1,5 @@
+{
+  "name": "AI Media Transcriber",
+  "description": "Upload or link to an audio/video file to generate a full text transcript with speaker identification using AI. You can then copy the full transcript or download it as a text file.",
+  "requestFramePermissions": []
+}
